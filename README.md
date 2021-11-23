@@ -17,3 +17,9 @@ I'm ↓
 ╚██████╗██║  ██║██║  ██║██║  ██║██║  ██║██║ ╚████║          
  ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝          
 ```
+
+## About Me 👨‍🏫 🕵️‍♂️
+
+![](https://img.shields.io/badge/OS-Arch%20Linux%20%2F%20Arch%20Based%20%2F%20Windows-orange?style=for-the-badge&logo=arch-linux)
+
+I am a _`B.Tech, Mechatronics`_ 👾 student at the _SASTRA university_ in _India_. I am a computer enthusiast 💻 and I like to write code 🧩
