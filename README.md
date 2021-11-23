@@ -34,11 +34,11 @@ I am a _`B.Tech, Mechatronics`_ 👾 student at the _SASTRA university_ in _Indi
 <a href="https://github.com/Busetty-Charan/Busetty-Charan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busetty-Charan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
-
+<br>
 <a href="https://github.com/Busetty-Charan/Busetty-Charan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Busetty-Charan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Charan's GitHub Stats" />
 </a>
-
+<br>
 <a href="https://github.com/Busetty-Charan/C-Stuff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Busetty-Charan&repo=C-Stuff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
