@@ -24,10 +24,11 @@ I'm ↓
 ![](https://img.shields.io/badge/Editor-Vim%20%2F%20VS%20Code-orange?style=for-the-badge&logo=vim)
 ![](https://img.shields.io/badge/Language-Python-orange?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Language-C-orange?style=for-the-badge&logo=c)
+![](https://img.shields.io/badge/Language-Cpp-orange?style=for-the-badge&logo=cplusplus)
 ![](https://img.shields.io/badge/Shell-Zsh-orange?style=for-the-badge&logo=powershell)
 ![](https://img.shields.io/badge/Shell-PowerShell-orange?style=for-the-badge&logo=powershell)
 
-I am a _`B.Tech, Mechatronics`_ 👾 student at the _SASTRA university_ in _India_. I am a computer enthusiast 💻 and I like to write code 🧩
+I am a _`B.Tech, Mechatronics`_ 👾 student at _SASTRA university,_ in _India_. I am a computer enthusiast 💻 and I like to write code 🧩
 
 ## Status
 
@@ -41,4 +42,8 @@ I am a _`B.Tech, Mechatronics`_ 👾 student at the _SASTRA university_ in _Indi
 <br>
 <a href="https://github.com/Busetty-Charan/C-Stuff">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Busetty-Charan&repo=C-Stuff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<br>
+<a href="https://github.com/Busetty-Charan/Cpp-Stuff">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Busetty-Charan&repo=Cpp-Stuff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
